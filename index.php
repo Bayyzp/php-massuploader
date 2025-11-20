@@ -1,4 +1,4 @@
-?php
+<?php
 /* 
     |  Obfuscated by Bayy1337 abfuscated bypass all waf |
 
